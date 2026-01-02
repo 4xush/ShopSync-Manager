@@ -1,6 +1,6 @@
-# ShopSync Manager
+## ShopSync Manager
 
-A JavaFX-based desktop application for managing a mobile phone repair and sales shop.
+ShopSync Manager is a JavaFX-based desktop application designed to streamline small tech shop operations. Manage product sales, repairs, mobile recharges, and inventory—all in one place. Powered by a SQLite backend, it offers real-time reporting, category-based product tracking (Phones, Headphones, etc.), and a user-friendly interface for shop owners on the go.
 
 ## Prerequisites
 
@@ -65,10 +65,6 @@ src/
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## ShopSync Manager
-
-ShopSync Manager is a JavaFX-based desktop application designed to streamline small tech shop operations. Manage product sales, repairs, mobile recharges, and inventory—all in one place. Powered by a SQLite backend, it offers real-time reporting, category-based product tracking (Phones, Headphones, etc.), and a user-friendly interface for shop owners on the go.
 
 ## Folder Structure
 
@@ -161,5 +157,6 @@ Fork the repo, make your changes, and submit a pull request. Issues and feature 
 
 
 ## Acknowledgments
+
 
 Built by Ayush Kumar for shop owners everywhere. 
